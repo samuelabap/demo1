@@ -7,8 +7,3 @@ REPORT zdemo_abapgit1.
 
 
 WRITE : /'THIS IS DEMO FOR ABAPGIT'.
-
-
-
-write: /'this is edited in GITHUB'.
-
